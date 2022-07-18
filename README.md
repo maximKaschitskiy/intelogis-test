@@ -25,7 +25,7 @@ npm run start
 
 #### Technologies:
  - Yandex.Maps API. Map, geocoding, routing.
- - Mock-file with real adresses of Moscow locations. Obtained through Moscow open data portal. JSON file with data is imported by default, but there is the function with fetch data from specified API in utils/AddressApi
+ - Mock-file with real adresses of Moscow locations. Obtained through Moscow open data portal. JSON file with data is imported locally by default, but there is the function with fetch data from specified API in utils/AddressApi
  - react-split-pane. Сomponent that implements split-screen.
  - react-yandex-maps. Сomponent responsible for working with the Yandex.Map.
  - shortid. Library for generate random IDs.
